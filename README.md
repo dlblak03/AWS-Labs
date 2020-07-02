@@ -1,1 +1,1 @@
-Files needed to complete AWS Labs that I have went through
+Files needed to complete the AWS Labs that I have went through
